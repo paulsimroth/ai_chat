@@ -1,3 +1,4 @@
+import SideBar from '@/components/SideBar'
 import './globals.css'
 
 export default function RootLayout({
@@ -10,7 +11,7 @@ export default function RootLayout({
       <head />
       <body>
         <div className='flex'>
-          {/**Sidebar */}
+          <SideBar />
 
           {/**ClientProvider - Notification */}
 
