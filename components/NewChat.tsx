@@ -7,6 +7,6 @@ function NewChat() {
         <p>New Chat</p>
     </div>
   )
-}
+};
 
-export default NewChat
+export default NewChat;
