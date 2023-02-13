@@ -28,7 +28,7 @@ function ChatRow({ id }: Props) {
         setActive(pathname.includes(id));
     }, [pathname]);
 
-    const removeChat =async () => {
+    const removeChat = async () => {
         await deleteDoc(doc(db, 'users', session?.user?.email!, 'chats', id));
         router.replace('/');
     }
