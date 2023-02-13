@@ -2,7 +2,7 @@
 This project is an AI Chat App. It is a ChatGPT clone.
 Users can sign in with a Google Account. 
 You can choose between different AI models via a drop down menu.
-Your conversiations are stored on firebase.
+Your conversiations are stored on Firebase.
 
 ## Technology Stack & Tools
 
