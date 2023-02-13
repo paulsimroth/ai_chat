@@ -1,4 +1,3 @@
-import styles from './page.module.css';
 import { BoltIcon, ExclamationTriangleIcon, SunIcon } from '@heroicons/react/24/outline';
 
 export default function HomePage() {
