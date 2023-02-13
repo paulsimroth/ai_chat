@@ -1,5 +1,6 @@
 # AI Chat
-This project is a ChatGPT clone.
+This project is an AI Chat App. It is a ChatGPT clone.
+Users can sign in with a Google Account.
 
 ## Technology Stack & Tools
 
