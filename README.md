@@ -15,7 +15,6 @@ Your conversiations are stored on Firebase.
 - [SWR](https://swr.vercel.app/) (React Hooks for Data Fetching)
 - [Firebase](https://firebase.google.com/) (Authentication and Database)
 - [OpenAI](https://platform.openai.com/overview) (ChatGPT API)
-- [SWR](https://swr.vercel.app/) (React Hooks for Data Fetching)
 
 ## Disclaimer
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
